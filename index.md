@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Tshepo Masilo: Welcome to my blog
 ---
 
